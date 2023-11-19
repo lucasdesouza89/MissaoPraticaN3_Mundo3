@@ -1,6 +1,4 @@
-/* 
-    Autor: Wallace Tavares
- */
+
 package cadastrobd.model;
 
 public class PessoaFisica extends Pessoa {
