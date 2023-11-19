@@ -1,6 +1,4 @@
-/* 
-    Autor: Wallace Tavares
- */
+
 package cadastro.model;
 import java.sql.Connection;
 import java.sql.DriverManager;
