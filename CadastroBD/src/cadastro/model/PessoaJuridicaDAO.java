@@ -1,7 +1,4 @@
-/* 
-    Autor: Wallace Tavares
 
- */
 package cadastro.model;
 import java.sql.Statement;
 import cadastrobd.model.PessoaJuridica;
