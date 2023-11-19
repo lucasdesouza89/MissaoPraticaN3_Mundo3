@@ -1,6 +1,3 @@
-/*
-    Autor: Wallace Tavares
- */
 package cadastro.model;
 import java.util.Scanner;
 
